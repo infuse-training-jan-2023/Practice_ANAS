@@ -1,3 +1,2 @@
-Name: Anis
-First Name: Anis Last Name: Ahmed
-Education: MCA
+Name: Anis Lastname: Ahmed
+Address: Margao
